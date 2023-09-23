@@ -1,3 +1,9 @@
+/*
+This is the unit test file for the AppComponent. It is used to write and run tests for the behavior of your component.
+Angular applications often use testing frameworks like Jasmine and Karma for writing and running tests.
+*/
+
+
 import { TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';

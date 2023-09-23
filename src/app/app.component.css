@@ -1,0 +1,9 @@
+/*
+This is the stylesheet for your main app component (AppComponent). It defines the component's styles using CSS or a preprocessor like SCSS.
+The styles specified here will be applied to the HTML template of the AppComponent.
+*/
+
+.app {
+    width: 100%;
+    height: 100vh;
+}
